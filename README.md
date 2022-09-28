@@ -1,18 +1,24 @@
 ![Melvin Tan Banner](/images/banner-01.png)
 
-I am a software developer who is passionate about creating technology that solves daily problems, automate our lives, and give us more time in the day for other precious moments. The technologies that I love working with include Linux, Angular/Ionic, Python, PHP, and Figma. Have a look at some of the tools I've built for myself below.
-
 ### About Me
-I am the Head of Product Management and General Manager of a medical software company in Canada.
-- :computer: Currently using an M1 MacBook Pro and Lenovo Thinkpad Z1 for development
-- :penguin:	Arch is my favourtie Linux distribution
-- :motorcycle: My hobbies include sportbikes, photography, games, and learning
-- :desert_island:	Disney World and Las Vegas are my to vacation destinations
+I am a software developer who is passionate about creating technology that solves daily problems, automate our lives, and give us more time in the day for other precious moments. The technologies that I love working with include Linux, Angular/Ionic, Python, PHP, and Figma.
+- :computer: Currently using an M1 MacBook Pro and Lenovo Thinkpad Z1 for development.
+- :penguin:	Arch is my favourite Linux distribution. Fedora is second in line and then Ubuntu third.
+- :motorcycle: My hobbies include electronics, photography, video gaming, motorcycles, cooking, and vacationing.
+- :desert_island:	Disney World and Las Vegas are my top vacation destinations.
+
+### Professional
+I am the Head of Product Management and General Manager of a medical software company in Canada. In this role, I am responsible for the following essential components of the product life cycle:
+- Product Management
+- Business Analysis
+- Architecture & Design
+- Development
+- Marketing
 
 ### Profile Statistics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=innershell&theme=gruvbox_duo)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=innershell&theme=blueberry)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innershell&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innershell&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
