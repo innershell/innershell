@@ -33,7 +33,7 @@ I am the Head of Product Management and General Manager of a medical software co
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
