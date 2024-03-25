@@ -2,7 +2,7 @@
 
 ### About Me
 I am a software developer who is passionate about creating technology that solves daily problems, automate our lives, and give us more time in the day for other precious moments. The technologies that I love working with include Linux, Angular/Ionic, Python, PHP, and Figma.
-- :computer: Currently using an M1 MacBook Pro and Lenovo Thinkpad Z1 for development.
+- :computer: Currently using an M1 MacBook Pro and Lenovo Thinkpad Z13 for development.
 - :penguin:	Arch is my favourite Linux distribution. Fedora is second in line and then Ubuntu third.
 - :motorcycle: My hobbies include electronics, photography, video gaming, motorcycles, cooking, and vacationing.
 - :desert_island:	Disney World and Las Vegas are my top vacation destinations.
